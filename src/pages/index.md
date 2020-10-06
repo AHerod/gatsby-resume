@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
 title: It's going to be awesome resume!
-image: /img/home-jumbotron.jpg
+image: /img/chemex.jpg
 heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+subheading: Test changes of another user
 mainpitch:
   title: Why Kaldi
   description: >
