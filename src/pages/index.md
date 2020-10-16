@@ -1,11 +1,11 @@
 ---
 templateKey: index-page
-title: It's going to be awesome resume!
-image: /img/chemex.jpg
+title: Martyna Jońca
+image: /img/cat_hero.jpg
 heading: Great coffee with a conscience
-subheading: Test changes of another user
+subheading: Marketing Specialist
 mainpitch:
-  title: Why Kaldi
+  title: O mnie
   description: >
     Kaldi is the coffee store for everyone who believes that great coffee
     shouldn't just taste good, it should do good too. We source all of our beans
